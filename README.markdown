@@ -24,9 +24,9 @@ Features
 
 * html5doctor.com Reset Stylesheet 1.4.1
 
-* jQuery 1.4.2
+* jQuery 1.7
 
-* jQuery UI 1.8.5
+* jQuery UI 1.8.16
 
 
 References
